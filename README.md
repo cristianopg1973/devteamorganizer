@@ -1,2 +1,2 @@
 # fullstacktimemanager
-Sistema de Gerenciamento Times Full Stack Developer
+Sistema de Gerenciamento de Times Full Stack Developer
